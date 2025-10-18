@@ -1,0 +1,14 @@
+[
+  {
+    "judul": "Scene 1: You're a Wizard",
+    "videoUrl": "https://raw.githubusercontent.com/<username>/englishbuddy-content/main/listening/scene1.mp4",
+    "pertanyaan": "What did Hagrid say to Harry?",
+    "jawaban": "You're a wizard, Harry!"
+  },
+  {
+    "judul": "Scene 2: Daily Conversation",
+    "videoUrl": "https://raw.githubusercontent.com/<username>/englishbuddy-content/main/listening/scene2.mp4",
+    "pertanyaan": "What is the boy asking for?",
+    "jawaban": "He's asking for a glass of water."
+  }
+]
