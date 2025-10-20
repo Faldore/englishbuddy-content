@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Scene 1",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "question": "What does the character say?",
+    "options": ["Hello!", "Goodbye!", "Thank you!", "Sorry!"],
+    "answer": "Hello!"
+  },
+  {
+    "title": "Scene 2",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4",
+    "question": "What color is the car?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": "Blue"
+  }
+]
