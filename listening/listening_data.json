@@ -8,9 +8,9 @@
   },
   {
     "title": "Scene 2: Daily Conversation",
-    "videoUrl": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/listening/videos/video1.mp4",
-    "question": "What is the boy asking for?",
-    "options": ["He's asking for a glass of water.", "Good night!", "Thank you!", "Sorry!"],
-    "answer": "He's asking for a glass of water."
+    "videoUrl": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/listening/videos/video2.mp4",
+    "question": ["Aunt Mary : 'Peter, are you alright?'", "Peter : 'Uhhh... (1)'","Aunt Mary : 'any better this morning? any change?'","Peter : '(2)? Big (2)'"],
+    "options": ["(1) I'm fine, (2) Change", "(1) I'm find, (2) Chance", "(1) I'm fine, (2) Chance", "(1) I'm find, (2) Change"],
+    "answer": "(1) I'm fine, (2) Change"
   }
 ]
