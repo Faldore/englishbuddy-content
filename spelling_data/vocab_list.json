@@ -1,1 +1,10 @@
-
+[
+  {
+    "word": "banana",
+    "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio/banana.mp3"
+  },
+  {
+    "word": "cat",
+    "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio/cat.mp3"
+  }
+]
