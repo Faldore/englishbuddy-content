@@ -1,17 +1,1 @@
-[
-  {
-    "word": "banana",
-    "Description": "yellow fruit and has a long cylindrical shape",
-    "audio_url": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/banana.mp3"
-  },
-  {
-    "word": "cat",
-    "Description": "cute, furry, four-legged pets. They love to sleep and enjoy eating fish or meat.",
-    "audio_url": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/cat.mp3"
-  },
-  {
-    "word": "duck",
-    "Description": "bird that lives near water like ponds, rivers, and lakes.",
-    "audio_url": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/duck.mp3"
-  }
-]
+[{"word":"banana","Description":"yellow fruit and has a long cylindrical shape","audio_url":"https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/banana.mp3"},{"word":"cat","Description":"cute, furry, four-legged pets. They love to sleep and enjoy eating fish or meat.","audio_url":"https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/cat.mp3"},{"word":"duck","Description":"bird that lives near water like ponds, rivers, and lakes.","audio_url":"https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/duck.mp3"},{"description":"a feeling of joy, contentment, and well-being","audio_url":"https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/spelling_data/audio/0000-0000_happiness.mp3","word":"happiness"}]
