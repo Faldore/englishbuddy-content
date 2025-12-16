@@ -27,17 +27,5 @@
       "(1) I'm find, (2) Change"
     ],
     "answer": "(1) I'm fine, (2) Change"
-  },
-  {
-    "title": "Pizza TIme!",
-    "videoUrl": "https:\/\/raw.githubusercontent.com\/Faldore\/englishbuddy-content\/main\/listening\/videos\/video_1765907223364.mp4",
-    "question": "What did the woman say?",
-    "options": [
-      "You are late, I am not paying this",
-      "Pizza Time!",
-      "I am late, You are not paying this",
-      "We are late, you are not paying this"
-    ],
-    "answer": "Option 1"
   }
 ]
