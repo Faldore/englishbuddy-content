@@ -1,14 +1,14 @@
 [
   {
-    "title": "Scene 1: You're a Wizard",
-    "videoUrl": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/listening/videos/video1.mp4",
+    "title": "You're a Wizard",
+    "videoUrl": "https://drive.google.com/file/d/18ZT-1_MO7Wlo9EP3YL41vcb-nR36Ej-c/view?usp=drive_link",
     "question": "What did Hagrid say to Harry?",
     "options": ["You're a wizard, Harry!", "Good night!", "Thank you!", "Sorry!"],
     "answer": "You're a wizard, Harry!"
   },
   {
-    "title": "Scene 2: Daily Conversation",
-    "videoUrl": "https://raw.githubusercontent.com/Faldore/englishbuddy-content/main/listening/videos/video2.mp4",
+    "title": "Peter get the power",
+    "videoUrl": "https://drive.google.com/file/d/1Bo1Nkfhvyuq-TMG8KYYwwbIvo_P8cqA5/view?usp=drive_link",
     "question": ["Aunt Mary : 'Peter, are you alright?'", "Peter : 'Uhhh... (1)'","Aunt Mary : 'any better this morning? any change?'","Peter : '(2)? Big (2)'"],
     "options": ["(1) I'm fine, (2) Change", "(1) I'm find, (2) Chance", "(1) I'm fine, (2) Chance", "(1) I'm find, (2) Change"],
     "answer": "(1) I'm fine, (2) Change"
