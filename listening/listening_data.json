@@ -39,5 +39,17 @@
       "I am late, you are not paying for this"
     ],
     "answer": "You are late, I am not paying for this"
+  },
+  {
+    "title": "are you alright?",
+    "videoUrl": "https:\/\/raw.githubusercontent.com\/Faldore\/englishbuddy-content\/main\/listening\/videos\/video_1766087705131.mp4",
+    "question": "What did the man sitting down say?",
+    "options": [
+      "Yeah, I guess I feel kind of different",
+      "Good night",
+      "Thank you",
+      "Sorry!"
+    ],
+    "answer": "Yeah, I guess I feel kind of different"
   }
 ]
