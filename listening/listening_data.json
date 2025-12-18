@@ -1,15 +1,15 @@
 [
   {
-    "title": "You're a Wizard",
+    "title": "Are you alright?",
     "videoUrl": "https:\/\/raw.githubusercontent.com\/Faldore\/englishbuddy-content\/main\/listening\/videos\/video1.mp4",
-    "question": "What did Hagrid say to Harry?",
+    "question": "What did the man sitting down say??",
     "options": [
-      "You're a wizard, Harry!",
+      "Yeah, I guess I feel kind of different",
       "Good night!",
       "Thank you!",
       "Sorry!"
     ],
-    "answer": "You're a wizard, Harry!"
+    "answer": "Yeah, I guess I feel kind of different"
   },
   {
     "title": "Peter get the power",
