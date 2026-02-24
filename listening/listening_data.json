@@ -40,17 +40,5 @@
       "Welcome"
     ],
     "answer": "You are late, i am not paying for this"
-  },
-  {
-    "title": "Jumanji",
-    "videoUrl": "https:\/\/raw.githubusercontent.com\/Faldore\/englishbuddy-content\/main\/listening\/videos\/video_1771949104909.mp4",
-    "question": "what did the man say?",
-    "options": [
-      "The map is changing",
-      "Wassup",
-      "Apa iya",
-      "Hahaha"
-    ],
-    "answer": "The map is changing"
   }
 ]
